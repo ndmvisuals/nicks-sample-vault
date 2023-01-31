@@ -1,0 +1,10 @@
+{
+  "styleLists": true,
+  "debug": false,
+  "stickCursor": false,
+  "betterEnter": true,
+  "betterTab": true,
+  "selectAll": true,
+  "listLines": false,
+  "listLineAction": "toggle-folding"
+}

@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "36a4596e291d1af7",
+        "id": "511c5e114328c618",
         "type": "tabs",
         "children": [
           {
-            "id": "1944a65526d53824",
+            "id": "4c18de67723a19bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a04a0947b7bd7754",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "utilities/templates/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 250.50312423706055
   },
   "right": {
     "id": "e407a98f29a806f2",
@@ -91,6 +79,40 @@
         "id": "762d788695402f51",
         "type": "tabs",
         "children": [
+          {
+            "id": "fff017f67616d2d9",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "18fb520f200f70f5",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "52afbf9a33601aa1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "readme.md"
+              }
+            }
+          },
+          {
+            "id": "c37707384c9cd67d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "a0355401befbd53e",
             "type": "leaf",
@@ -130,22 +152,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "52afbf9a33601aa1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "readme.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 231.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -155,12 +168,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "1944a65526d53824",
+  "active": "4c18de67723a19bf",
   "lastOpenFiles": [
-    "utilities/templates/Untitled.md",
-    "readme.md"
+    "notes/project.work.project-name.md",
+    "readme.md",
+    "notes/home.todo.md",
+    "notes/project.work.project-name.todo.md",
+    "notes/@.person-one.md",
+    "notes/project.work.project-name.meeting.md",
+    "notes/Untitled.md",
+    "notes/@.md",
+    "notes/area.habits.daily.2023-01-30--tracker.md",
+    "utilities/templates/3.template-habit.md"
   ]
 }

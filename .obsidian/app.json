@@ -1,1 +1,8 @@
-{}
+{
+  "attachmentFolderPath": "notes/assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "showLineNumber": true,
+  "spellcheck": true,
+  "showUnsupportedFiles": true
+}
